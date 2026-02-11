@@ -6,4 +6,7 @@ int main() {
     scanf("%d\n",&number);
     printf("You entered: %d\n", number);
     return 0;
+
 }
+output:enter the value of integer 5
+    You entered: 5
