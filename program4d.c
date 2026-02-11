@@ -20,4 +20,10 @@ int main() {
     
 
     return 0;
+
 }
+output:Enter the first number: 10
+Enter the second number: 20
+    Both numbers (10 and 20) are positive.
+
+
