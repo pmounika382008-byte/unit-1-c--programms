@@ -13,3 +13,5 @@ int main() {
 
     return 0;
 }
+output:Enter a positive integer: 5
+Sum of the first 5 natural numbers is: 15
