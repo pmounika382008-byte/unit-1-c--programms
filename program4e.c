@@ -31,4 +31,9 @@ int main() {
             printf("Invalid operator!\n");
     }
     return 0;
+
 }
+output:Enter first number: 12
+Enter second number: 8
+Enter the operator (+, -, *, /): +
+12.00 + 8.00 = 20.00
