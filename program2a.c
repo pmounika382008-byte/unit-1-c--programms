@@ -23,4 +23,14 @@ int main() {
 
     printf("Boolean value (0=false, 1=true): %d\n", boolean_value);
     return 0;
+
 }
+output: Integer value: 42
+Short integer value: 123
+Long integer value: 1234567890
+Unsigned integer value: 100
+Float value: 3.140000
+Double value: 123.456789
+Long double value: 1.234568
+Character value: A
+Boolean value (0=false, 1=true): 1
