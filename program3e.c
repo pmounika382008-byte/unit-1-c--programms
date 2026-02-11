@@ -27,4 +27,9 @@ int main() {
         printf("Combined Logical Operators: The complex condition is false.\n");
     
     return 0;
+
 }
+output:Logical AND: Both conditions (a > b and c > d) are true.
+Logical OR: At least one condition (a > c or b < d) is true.
+Logical NOT: The condition (a < b) is false, so !(a < b) is true.
+Combined Logical Operators: The complex condition is true.
