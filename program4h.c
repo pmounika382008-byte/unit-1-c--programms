@@ -18,4 +18,8 @@ int main() {
     }
 
     return 0;
+
 }
+output:Enter a positive integer (n): -3
+    Please enter a positive integer.
+    
