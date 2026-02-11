@@ -11,4 +11,6 @@ int main() {
     printf("Odd Number");
  
   return 0;
+
 }
+output:Odd Number
