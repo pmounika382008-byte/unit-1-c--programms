@@ -23,3 +23,13 @@ int main() {
 
     return 0;
 }
+    output:Increment Operators
+Original 'a': 5
+After pre increment (++a): a = 6, result = 6
+Original 'b': 5
+After post increment (b++): b = 6, result = 5
+Original 'c': 5
+After pre decrement (--c): c = 4, result = 4
+Original 'd': 5
+After post decrement (d--): d = 4, result = 5
+
