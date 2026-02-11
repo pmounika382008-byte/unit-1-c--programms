@@ -20,4 +20,16 @@ int main() {
         printf("\n'a' is not less than 'b'.\n");
 
     return 0;
+
 }
+output:Value of a: 10
+Value of b: 20
+
+a == b: 0
+a != b: 1
+a > b: 0
+a < b: 1
+a >= b: 0
+a <= b: 1
+
+'a' is less than 'b'.
