@@ -15,4 +15,8 @@ int main() {
     printf("The sum of %d and %d is: %d\n", num1, num2, sum);
 
     return 0;
+
 }
+output:Enter the first number: 10
+Enter the second number: 20
+    The sum of 10 and 20 is: 30
