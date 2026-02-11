@@ -16,4 +16,7 @@ int main() {
     }
 
     return 0;
+
 }
+output:Enter a number: 15
+    15 is a positive number.
