@@ -18,4 +18,9 @@ int main() {
 
 
     return 0;
+
 }
+output:Enter first number: 10
+Enter second number: 20
+     Before swapping: num1 = 10, num2 = 20
+After swapping: num1 = 20, num2 = 10
