@@ -11,4 +11,7 @@ int main() {
     else 
         printf("The largest number is: %d\n", num3);
     return 0;
+
 }
+output:Enter three integers: 10 25 15
+    The largest number is: 25
